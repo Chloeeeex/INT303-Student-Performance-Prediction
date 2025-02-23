@@ -67,7 +67,7 @@ The dataset consists of several key features categorized into different groups:
 ### 4. Evaluation
 - Achieved an **accuracy of 86.41%**.
 - Classification report:
- 
+
 | Class | Precision | Recall | F1-Score | Support |
 |-------|-----------|--------|----------|---------|
 | 0 (Enrolled) | 0.87 | 0.85 | 0.86 | 355 |
@@ -75,7 +75,7 @@ The dataset consists of several key features categorized into different groups:
 | 2 (Dropout) | 0.90 | 0.83 | 0.86 | 356 |
 | **Accuracy** |  |  | **0.86** | **1067** |
 | **Macro Avg** | 0.87 | 0.86 | 0.86 | 1067 |
-| **Weighted Avg** | 0.87 | 0.86 | 0.86 | 1067 |      
+| **Weighted Avg** | 0.87 | 0.86 | 0.86 | 1067 |
 <img width="500" alt="Screenshot 2025-02-23 at 16 59 20" src="https://github.com/user-attachments/assets/a5917770-1fd4-4def-843e-22dbac9ad128" />
 
 - **ROC-AUC Score: 0.95** (high prediction reliability).
