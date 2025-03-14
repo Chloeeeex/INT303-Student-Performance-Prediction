@@ -97,3 +97,5 @@ The dataset consists of several key features categorized into different groups:
 - Explore additional **ensemble learning techniques**.
 - Improve interpretability using **SHAP** or **LIME**.
 - Experiment with other balancing techniques like **class-weight adjustments**.
+
+*The overall architecture and core logic of this code were conceived by me, with AI assisting in optimization and partial implementation.*
